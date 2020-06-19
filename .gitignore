@@ -1,3 +1,3 @@
-F:\freecodecamp_projects\exercisetracker\.env
-F:\freecodecamp_projects\exercisetracker\node_modules
-F:\freecodecamp_projects\exercisetracker\.vscode
+/node_modules
+.env
+npm-debug.log*
